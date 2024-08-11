@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.dlad.qa.testcases.HomePageTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 47.044 s - in com.dlad.qa.testcases.HomePageTest
